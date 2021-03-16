@@ -1,0 +1,9 @@
+ion-content.background {
+  --background: url(../../assets/img/sentryBackground.jpg) 0 0/100% 100%
+    no-repeat;
+}
+
+ion-card.loginBox {
+  position: relative;
+  bottom: -50%;
+}

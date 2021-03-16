@@ -25,3 +25,12 @@
 #container a {
   text-decoration: none;
 }
+
+ion-content.sentryhome {
+  --background: url(../../assets/img/sentryHome.jpg) 0 0/100% 100% no-repeat;
+}
+
+.buttonOut {
+  position: relative;
+  bottom: -10%;
+}
